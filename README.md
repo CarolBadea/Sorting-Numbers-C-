@@ -1,5 +1,5 @@
 # Sorting-Numbers-C-
-Sorting numbers using custom rules
+
 Sorting the number using that every number represents a point on the XOY axis
 (i, s[i]), where i >=0 && i < n, and if you draw a perpendicular line from every point
 on the OX axis, the resulting graphic will look like in the following picture:
